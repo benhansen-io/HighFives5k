@@ -8,3 +8,8 @@
   margin-right: auto;
   display: block;
 }
+
+table thead {
+  border-bottom: 1px solid black;
+  text-align: left;
+}
