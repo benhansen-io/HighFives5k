@@ -1,6 +1,8 @@
 /* Padding to make room for nav */
 body {
   padding-top: 50px;
+  background-color: rgb(252, 252, 252);
+  background-image:url("../img/img-noise-300x400_9.png");
 }
 
 .navbar {
