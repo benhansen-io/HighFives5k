@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
+name: High Fives 5K
 markdown: redcarpet
 pygments: true
+menu:
+    - name: Home
+      url: /index.html
+    - name: 2013 Race Info
+      url: /2013-race-info.html

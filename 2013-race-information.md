@@ -14,5 +14,5 @@ The tenth running of the High Fives 5K will take place at 5:55 PM on Saturday Ma
 * There are NO entry fees.
 * Registration for the races begins at 5:05 PM.
 * Awards given to top five finishers and age division winners.
-* Finishers Medallions to all who finish in under 55 minutes.
+* Finishers medallions given to all who finish in under 55 minutes.
 * All Runners and Walkers are invited, with a special invitation to first time racers.

@@ -2,7 +2,7 @@
 layout: page
 title: Volunteers
 ---
-The High Fives 5K and KIDS DASH would not be possible without the assistance of numerous volunteers. We appreciate all of the volunteers in the neighborhood who have been so kind to help with this wonderful neighborhood activity. Again this year we will need many volunteers to assist with the following responsibilities:
+The High Fives 5K and Kids Dash would not be possible without the assistance of numerous volunteers. We appreciate all of the volunteers in the neighborhood who have been so kind to help with this wonderful neighborhood activity. Again this year we will need many volunteers to assist with the following responsibilities:
 
 1. Race Registration
 2. Race Video/Photographers

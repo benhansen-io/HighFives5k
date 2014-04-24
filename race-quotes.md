@@ -6,10 +6,6 @@ Fall down seven times, stand up eight",
 
 Japanese Proverb
 
-"There is no failure in running or in life, as long as you keep moving. It's not about speed and gold medals. It's about refusing to be stopped."
-
-Amby Burfoot, Runners World
-
 "...and let us run with patience the race that is set before us..."
 
 Hebrews 12:1
@@ -18,10 +14,8 @@ Hebrews 12:1
 
 Theodore Roosevelt
 
- "Be strong and of a good courage; be not afraide; neither be thou dismayed ..."
+
+"Be strong and of a good courage; be not afraide; neither be thou dismayed ..."
 
 Joshua 1:9
 
-"At the end of the day or the end of the month or end of a career, all you need to know is you did the best you could."
-
-Larry H. Miller
