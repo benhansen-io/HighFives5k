@@ -3,6 +3,7 @@ layout: page
 title: The History of the High Fives 5K
 ---
 The idea of the High Fives 5K was first conceived by John Hansen while he was running along 11th Avenue in the fall of 2002. As a long time resident of the avenues, John was impressed by the fact that this neighborhood has many men, women and children who enjoy running. In contemplating creating a race for the High Aves, the idea was formed of a race that would be unique for the High Aves. The idea was to hold a FIVE-K race at FIVE thousand feet of altitude, and to start the race at 5:55pm on the FIFTH day of the 5th month. Hence, the name The High Fives 5K. Appropriately, the first sponsor of the High Fives 5K was the Ensign FIFTH Ward.
+<img style="padding: 25px; float: right;" src="images/2003start.bmp" />
 
 **2003** - The first running of the High Fives 5K took place on Saturday May 15th 2003. Torrential rainstorms lasted throughout the afternoon, right up until race time,(causing the registration to be completed inside the church building). But when the race was to begin, the skies cleared and the rains stopped until the race was finished. The first person to cross the finish line in the first High Fives 5K was Kevin Murphy with a time of 18:49. The first female to finish the race was Kristen Monson. In all, 65 participants completed that inaugural High Fives 5K.
 

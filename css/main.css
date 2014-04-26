@@ -9,7 +9,7 @@
   display: block;
 }
 
-#map iframe {
+#map iframe, #kids iframe {
 	border: 2px solid #6FB3AA;
 	-webkit-box-shadow: 3px 3px 5px 0px rgba(176,176,176,1);
 	-moz-box-shadow: 3px 3px 5px 0px rgba(176,176,176,1);
