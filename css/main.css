@@ -25,3 +25,18 @@ table thead {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+section#quote {
+	padding: 0em 6em;
+	margin-bottom: 0em;
+}
+
+footer#footer {
+	padding-bottom: 0px;
+}
+
+
+#header nav ul li a {
+	color: rgb(84, 88, 89) !important;
+	padding: 0px 1px !important;
+}

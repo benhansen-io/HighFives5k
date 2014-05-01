@@ -30,6 +30,8 @@ The field for the second High Fives 5K was made up of over 75 men, women and chi
 
 This years race had many impressive and noteworth events occur, but two particularly significant accomplishments , involving our oldest and youngest 5K finishers, deserve to be recorded in this High Fives History. First, five year old Eliot Engberson joined the field of over 82 runners at the starting line of the 5K. When the race began, all of the runners sprinted down the hill and young Eliot was accidentally knocked down and scraped his body on the asphalt. But showing an amazing determination beyond his years, Eliot got up and was determined to continue running the race. And he Did! He finished the race in 41:07 and was the youngest race finisher! The second story to mention is about Dick Smiley. At 84 years of age Dick was the oldest participant in the 5K. Dick did two training runs the week before the race to make sure he could still do it, and he did! Dick was pleased to finish the course in 54 minutes.
 
-**2013** - This will be the 10th running of the High Fives 5K! We look forward to another great evening of running and associating together in our Avenues Neighborhood, and hope that you will be able to join us for this great evening. We also hope that you will invite your neighbors , friends and extended families to come join with us as well.
+**2013** - To be updated
+
+**2014** - This will be the 11th running of the High Fives 5K! We look forward to another great evening of running and associating together in our Avenues Neighborhood, and hope that you will be able to join us for this great evening. We also hope that you will invite your neighbors , friends and extended families to come join with us as well.
 
 **Considering the successes of our younger and older runners, and in light of the fabulous support of the neighborhood, the High Fives 5K is alive and well and getting stronger each year.**
