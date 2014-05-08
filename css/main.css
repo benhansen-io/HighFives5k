@@ -36,7 +36,7 @@ footer#footer {
 }
 
 
-#header nav ul li a {
+#header nav ul li {
 	color: rgb(84, 88, 89) !important;
 	padding: 0px 1px !important;
 }
