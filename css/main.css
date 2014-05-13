@@ -40,3 +40,8 @@ footer#footer {
 	color: rgb(84, 88, 89) !important;
 	padding: 0px 1px !important;
 }
+
+/* For the buttons inside the green box */
+section.special-alt ul.buttons li {
+	padding: 0 1em 1em 0em;
+}
