@@ -1,5 +1,4 @@
 name: High Fives 5K
-markdown: redcarpet
 pygments: true
 menu:
     - name: Home
