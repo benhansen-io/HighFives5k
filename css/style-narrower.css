@@ -114,3 +114,12 @@
 	#footer {
 		padding: 4em 1.5em;
 	}
+
+section#quote {
+	padding: 0em 2em;
+}
+
+.offseticon {
+	position: static !important;
+	right: 0;
+	top: 0;

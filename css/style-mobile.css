@@ -114,14 +114,16 @@
 /* Banner */
 
 	#banner {
-		background-size: 10em, 10em, auto, cover;
+		background-size: 10em, 10em, cover;
 		padding: 6em 0;
 	}
 
 		#banner .inner {
-			background: none;
+			/*background: none;*/
 			display: block;
-			padding: 0 1.5em;
+			padding: 3em 1.5em;
+			margin-left: 0.5em;
+			margin-right: 0.5em;
 		}
 
 			#banner .inner header h2 {

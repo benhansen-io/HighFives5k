@@ -751,12 +751,12 @@
 	@keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 
 	#banner {
-		background-attachment: scroll, scroll, scroll, fixed;
+		background-attachment: scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
-		background-position: bottom left, bottom right, top left, top center;
-		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, auto, cover;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("../images/banner.jpg");
+		background-position: bottom left, bottom right, center;
+		background-repeat: no-repeat, no-repeat, no-repeat;
+		background-size: 25em, 25em, cover;
 		color: white;
 		cursor: default;
 		padding: 6em 0;
@@ -1036,3 +1036,8 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+
+.autoshrink {
+	max-width: 100%;
+}
