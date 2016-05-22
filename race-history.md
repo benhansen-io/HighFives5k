@@ -44,6 +44,10 @@ Another historic first in this year's 5K was a finish line battle between two St
 
 For the tenth consecutive year, the 5K race had a new male winner. This year's male winner was Dan Cushman. The female winner was Lindsey McSweeney, who has grown up running and swimming in the avenues. Our Young runners continue to be a stronger and more significant force in the High Fives 5K. This year 24 of the 67 5K finishers were 16 years old or younger. And of the first 13 finishers, six of them were 16 or younger. 
 
-**2016** - This will be the 13th running of the High Fives 5K! We look forward to another great evening of running and associating together in our Avenues Neighborhood, and hope that you will be able to join us for this great evening. We also hope that you will invite your neighbors , friends and extended families to come join with us as well.
+**2016** - Despite threatening rainstorms in the mid afternoon on Saturday May 7th,  the 13th Annual High Fives turned out to be another very successful and exciting neighborhood activity and it was record breaking in many ways.  Record numbers of participants competed in both the 5K and The Dash. There were 51 recorded finishers in the Dash and 105 finishers in the 5K!  36 year old Avenues resident Dan Cushman won the High Fives 5K for the second year in a row. Dan is the first High Five 5K  male repeat winner in over ten years. The female 5K winner was 18 year old Anna Boyes. The female winner of the Kid's Dash, for the 3rd year in a row, was 11 year old  Isabel Bestvina. The male winner of the Dash was 9 year old Joshua Schreiter.
+
+This year's 5K also set new records for the youngest and oldest finishers. 4 year old Isaac McAdams became the youngest finisher of the 5K when he crossed the finish line with his father and others in the McAdams Clan. Barbara Anderson became the first finisher ever in the 80 plus division.
+
+Congratulations to  Dan, Anna, Isabel, Joshua, Isaac, Barbara and everyone else, including the many neighborhood volunteers, who helped make this year's High Fives one of the best ever!
 
 **Considering the successes of our younger and older runners, and in light of the fabulous support of the neighborhood, the High Fives 5K is alive and well and getting stronger each year.**
