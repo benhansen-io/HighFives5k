@@ -1,5 +1,4 @@
 name: High Fives 5K
-pygments: true
 menu:
     - name: Home
       url: /index.html
