@@ -50,4 +50,10 @@ This year's 5K also set new records for the youngest and oldest finishers. 4 yea
 
 Congratulations to  Dan, Anna, Isabel, Joshua, Isaac, Barbara and everyone else, including the many neighborhood volunteers, who helped make this year's High Fives one of the best ever!
 
+**2017** - The 14th Annual High Fives 5K enjoyed very pleasant weather conditions and another strong  field of runners along with family and neighborhood volunteers, supporters and spectators. A number of beloved former Avenues residents, such as the McMasters, Raynors, (Ben) Johnsons and the McAdams families, returned again to participate in this popular avenues neighborhood event.
+
+Worth noting was the strong support and participation in the races by Avenues  connected political office holders and candidates, and their families. The families of Salt Lake County Mayor Ben McAdams and Salt Lake City Council candidate Laura Bushman added great support and involvement again this year. Salt Lake County Mayor Ben McAdams and his wife and children had strong performances in both the Kids Dash and the 5K. Ben and Julie’s  8 year old son Robert was the winner of the Kid’s Dash!
+
+History was created in the 5K race this year when current Avenues resident Dan Cushman became the first “Three-Pete” male winner in the 14 year history of this event. Also,  Dan and his wife Laura Cushman became the first family to win both the men’s and the women’s divisions of the 5K, when Laura crossed the finish line as the first female finisher. Ryan Brown set a new course record in the 40-49 year old male division when he crossed the finish line in 20 minutes and 51 seconds. Congratulations to Ryan and all of the other participants and finishers in this years’ High Fives Races!
+
 **Considering the successes of our younger and older runners, and in light of the fabulous support of the neighborhood, the High Fives 5K is alive and well and getting stronger each year.**
