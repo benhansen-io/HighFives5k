@@ -3,14 +3,21 @@ layout: page
 title: The History of the High Fives 5K
 ---
 The idea of the High Fives 5K was first conceived by John Hansen while he was running along 11th Avenue in the fall of 2002. As a long time resident of the avenues, John was impressed by the fact that this neighborhood has many men, women and children who enjoy running. In contemplating creating a race for the High Aves, the idea was formed of a race that would be unique for the High Aves. The idea was to hold a FIVE-K race at FIVE thousand feet of altitude, and to start the race at 5:55pm on the FIFTH day of the 5th month. Hence, the name The High Fives 5K. Appropriately, the first sponsor of the High Fives 5K was the Ensign FIFTH Ward.
-<img style="padding: 25px; float: right;" src="images/2003start.bmp" />
 
+<figure style="padding: 25px; height: 360px; float: right;" >
+<img style="height: 310px;" src="images/2017start.jpg" />
+<figcaption style="text-align: center;">2017 5K Start</figcaption>
+</figure>
 **2017** - The 14th Annual High Fives 5K enjoyed very pleasant weather conditions and another strong  field of runners along with family and neighborhood volunteers, supporters and spectators. A number of beloved former Avenues residents, such as the McMasters, Raynors, (Ben) Johnsons and the McAdams families, returned again to participate in this popular avenues neighborhood event.
 
 Worth noting was the strong support and participation in the races by Avenues  connected political office holders and candidates, and their families. The families of Salt Lake County Mayor Ben McAdams and Salt Lake City Council candidate Laura Bushman added great support and involvement again this year. Salt Lake County Mayor Ben McAdams and his wife and children had strong performances in both the Kids Dash and the 5K. Ben and Julie’s  8 year old son Robert was the winner of the Kid’s Dash!
 
 History was created in the 5K race this year when current Avenues resident Dan Cushman became the first “Three-Pete” male winner in the 14 year history of this event. Also,  Dan and his wife Laura Cushman became the first family to win both the men’s and the women’s divisions of the 5K, when Laura crossed the finish line as the first female finisher. Ryan Brown set a new course record in the 40-49 year old male division when he crossed the finish line in 20 minutes and 51 seconds. Congratulations to Ryan and all of the other participants and finishers in this years’ High Fives Races!
 
+<figure style="padding: 25px; float: right;">
+<img style="height: 205px;" src="images/2003start.bmp" />
+<figcaption style="text-align: center;">2003 Inaugural 5K</figcaption>
+</figure>
 **2003** - The first running of the High Fives 5K took place on Saturday May 15th 2003. Torrential rainstorms lasted throughout the afternoon, right up until race time,(causing the registration to be completed inside the church building). But when the race was to begin, the skies cleared and the rains stopped until the race was finished. The first person to cross the finish line in the first High Fives 5K was Kevin Murphy with a time of 18:49. The first female to finish the race was Kristen Monson. In all, 65 participants completed that inaugural High Fives 5K.
 
 **2004** - When the second High Fives 5K was held there were some things that had changed since the first race just one year before. First, the LDS Church reorganized the ward boundaries in the Avenues and the Ensign FIFTH Ward was disbanded, with members being transferred to the Emigration 4th and 6th Wards. On top of that, the 18th Avenue Church building, where the race begins and ends, caught fire that spring and was closed for restoration. Undaunted though, the second annual High Fives 5K took place on Saturday May 8th 2004. A Kid's 555 Dash was added as an event before the 5K. A very excited group of young boys and girls 10 years old or younger dashed off with such speed and excitement that the results of that race were never recorded. But they had fun!
@@ -19,6 +26,10 @@ The field for the second High Fives 5K was made up of over 75 men, women and chi
 
 **2006** - The third running of the High Fives 5K occurred on Friday May 5th, 2006. Having the race on a Friday afternoon rather than a Saturday resulted in a smaller number of participants. Kevin Murphy was unable to run in this race due to a scheduling conflict, opening the door for a new men's champion. Miles Petty took this opportunity and crossed the line first making him the winner of the 2006 High Fives 5K. Kristen Monson continued her domination of the women's division by taking home her third straight title.
 
+<figure style="padding: 25px; height: 360px; float: right;" >
+<img style="height: 310px;" src="images/2007start.jpg" />
+<figcaption style="text-align: center;">2007 5K Start</figcaption>
+</figure>
 **2007** - On May 19th 2007, the fourth High Five 5K took place with a clear up turn in participation and results both in the race and on the sidelines. For his Eagle Scout project, Thomas Hansen organized the return of the KIDS 555 FOOT DASH and created this High Fives web site. Twenty five children, under 12 years of age, entered the dash. 10 year old Keifer Nunley crossed the finish line first! The 5K race had a record 82 finishers. Kristen Monson, busy with her wedding reception that evening, was unable to defend her record of winning the women’s race in all of the past High Fives 5Ks. The new women’s champion this year was 15 year old Eliza Hale. The men’s race saw its youngest champion ever when 16 year old Daniel Wray was the first to cross the finish line. Judy Eror and the Emigration 6th Ward Activities Committee went all out in providing root beer floats and an incredibly delicious post race BBQ dinner for all of the runners and spectators, making the activity far more than just another 5K Race. Thank you Judy and all the other volunteers!
 
 **2008** - The fifth running of the High Fives 5K took place under perfect weather conditions on Saturday May 9th, 2008. The race received unprecedented support from volunteers and neighbors who came out to help make this unique high avenues event a tremendous success. Special Thanks to Michelle Rigby who sacrificed her sanity and her car in order to help make available the massive Balloon Banner from the day's earlier Race for the Cure event. The kids dash had an enthusiastic crowd of 25 young runners. Nine year old Hayden Banz was the first place boys finisher and the first place finisher for the girls was Eight year old Tana Raynor.
