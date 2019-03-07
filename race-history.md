@@ -5,19 +5,17 @@ title: The History of the High Fives 5K
 The idea of the High Fives 5K was first conceived by John Hansen while he was running along 11th Avenue in the fall of 2002. As a long time resident of the avenues, John was impressed by the fact that this neighborhood has many men, women and children who enjoy running. In contemplating creating a race for the High Aves, the idea was formed of a race that would be unique for the High Aves. The idea was to hold a FIVE-K race at FIVE thousand feet of altitude, and to start the race at 5:55pm on the FIFTH day of the 5th month. Hence, the name The High Fives 5K. Appropriately, the first sponsor of the High Fives 5K was the Ensign FIFTH Ward.
 
 <figure style="padding: 25px; height: 360px; float: right;" >
-<img style="height: 310px;" src="images/2017start.jpg" />
-<figcaption style="text-align: center;">2017 5K Start</figcaption>
+<img style="height: 310px;" src="images/2018.jpg" />
+<figcaption style="text-align: center;">2018 5K Start</figcaption>
 </figure>
-**2017** - The 14th Annual High Fives 5K enjoyed very pleasant weather conditions and another strong  field of runners along with family and neighborhood volunteers, supporters and spectators. A number of beloved former Avenues residents, such as the McMasters, Raynors, (Ben) Johnsons and the McAdams families, returned again to participate in this popular avenues neighborhood event.
+**2018** - This years High Fives Races once again had great neighborhood support and participation. An impressive number of runners in both the 5K and the Kids Dash. The 5K race had 78 finishers and the Kids Dash had 43 finishers. 
 
-Worth noting was the strong support and participation in the races by Avenues  connected political office holders and candidates, and their families. The families of Salt Lake County Mayor Ben McAdams and Salt Lake City Council candidate Laura Bushman added great support and involvement again this year. Salt Lake County Mayor Ben McAdams and his wife and children had strong performances in both the Kids Dash and the 5K. Ben and Julie’s  8 year old son Robert was the winner of the Kid’s Dash!
+Two families who have been very supportive of the High Fives races made exceptional efforts to participate in this years races. First, former High Avenues residents Ben and Julie McAdams had a very legitimate reason for missing the event this year since Ben McAdams had been competing all day at the State Democratic Convention, seeking the nomination to the Unites States House of Representatives. But Ben and Julie and their family dashed from the State Convention to join us for the High Fives. And their 9 year old son Robert was the second finisher in the Kids Dash.
 
-History was created in the 5K race this year when current Avenues resident Dan Cushman became the first “Three-Pete” male winner in the 14 year history of this event. Also,  Dan and his wife Laura Cushman became the first family to win both the men’s and the women’s divisions of the 5K, when Laura crossed the finish line as the first female finisher. Ryan Brown set a new course record in the 40-49 year old male division when he crossed the finish line in 20 minutes and 51 seconds. Congratulations to Ryan and all of the other participants and finishers in this years’ High Fives Races!
+The McAdams family wasn’t the only family to go to great lengths to participate in their years High Fives events. Even though Dan and Laura Cushman’s family had just returned on a red eye flight from a Hawaii vacation only A few hours earlier that day, the family fought off the red eye fatigue and joined the competition. And Dan Cushman even won the race again. In fact he made High Fives History by becoming the first ever Four Time Champion of the 5k, winning it for the fourth year in a row.
 
-<figure style="padding: 25px; float: right;">
-<img style="height: 205px;" src="images/2003start.bmp" />
-<figcaption style="text-align: center;">2003 Inaugural 5K</figcaption>
-</figure>
+The were no new course records set this year, but there was a first of a new kind- a new High Fives logo, and High Fives T-Shirts with the new logo. Thanks to Angela Krull for helping to design the new logo, and thanks to Melanie Rogers for connecting us with Scott and Offset Apparel for the great shirts and the cool design!
+
 **2003** - The first running of the High Fives 5K took place on Saturday May 15th 2003. Torrential rainstorms lasted throughout the afternoon, right up until race time,(causing the registration to be completed inside the church building). But when the race was to begin, the skies cleared and the rains stopped until the race was finished. The first person to cross the finish line in the first High Fives 5K was Kevin Murphy with a time of 18:49. The first female to finish the race was Kristen Monson. In all, 65 participants completed that inaugural High Fives 5K.
 
 **2004** - When the second High Fives 5K was held there were some things that had changed since the first race just one year before. First, the LDS Church reorganized the ward boundaries in the Avenues and the Ensign FIFTH Ward was disbanded, with members being transferred to the Emigration 4th and 6th Wards. On top of that, the 18th Avenue Church building, where the race begins and ends, caught fire that spring and was closed for restoration. Undaunted though, the second annual High Fives 5K took place on Saturday May 8th 2004. A Kid's 555 Dash was added as an event before the 5K. A very excited group of young boys and girls 10 years old or younger dashed off with such speed and excitement that the results of that race were never recorded. But they had fun!
@@ -66,5 +64,20 @@ For the tenth consecutive year, the 5K race had a new male winner. This year's m
 This year's 5K also set new records for the youngest and oldest finishers. 4 year old Isaac McAdams became the youngest finisher of the 5K when he crossed the finish line with his father and others in the McAdams Clan. Barbara Anderson became the first finisher ever in the 80 plus division.
 
 Congratulations to  Dan, Anna, Isabel, Joshua, Isaac, Barbara and everyone else, including the many neighborhood volunteers, who helped make this year's High Fives one of the best ever!
+
+<figure style="padding: 25px; height: 360px; float: right;" >
+<img style="height: 310px;" src="images/2017start.jpg" />
+<figcaption style="text-align: center;">2017 5K Start</figcaption>
+</figure>
+**2017** - The 14th Annual High Fives 5K enjoyed very pleasant weather conditions and another strong  field of runners along with family and neighborhood volunteers, supporters and spectators. A number of beloved former Avenues residents, such as the McMasters, Raynors, (Ben) Johnsons and the McAdams families, returned again to participate in this popular avenues neighborhood event.
+
+Worth noting was the strong support and participation in the races by Avenues  connected political office holders and candidates, and their families. The families of Salt Lake County Mayor Ben McAdams and Salt Lake City Council candidate Laura Bushman added great support and involvement again this year. Salt Lake County Mayor Ben McAdams and his wife and children had strong performances in both the Kids Dash and the 5K. Ben and Julie’s  8 year old son Robert was the winner of the Kid’s Dash!
+
+History was created in the 5K race this year when current Avenues resident Dan Cushman became the first “Three-Pete” male winner in the 14 year history of this event. Also,  Dan and his wife Laura Cushman became the first family to win both the men’s and the women’s divisions of the 5K, when Laura crossed the finish line as the first female finisher. Ryan Brown set a new course record in the 40-49 year old male division when he crossed the finish line in 20 minutes and 51 seconds. Congratulations to Ryan and all of the other participants and finishers in this years’ High Fives Races!
+
+<figure style="padding: 25px; float: right;">
+<img style="height: 205px;" src="images/2003start.bmp" />
+<figcaption style="text-align: center;">2003 Inaugural 5K</figcaption>
+</figure>
 
 **Considering the successes of our younger and older runners, and in light of the fabulous support of the neighborhood, the High Fives 5K is alive and well and getting stronger each year.**
