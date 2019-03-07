@@ -508,8 +508,8 @@
 		}
 
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: rgb(202, 108, 47);
+			border-color: rgb(182, 85, 37);
 			color: white !important;
 		}
 
@@ -540,7 +540,8 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #6FB3AA;
+			/* background-color: rgb(150, 33, 128); */
+			background-color: rgb(202, 108, 47);
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -555,7 +556,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #6FB3AA !important;
+				color: rgb(202, 108, 47) !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -753,7 +754,7 @@
 	#banner {
 		background-attachment: scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("../images/banner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("../images/2018.jpg");
 		background-position: bottom left, bottom right, center;
 		background-repeat: no-repeat, no-repeat, no-repeat;
 		background-size: 25em, 25em, cover;
