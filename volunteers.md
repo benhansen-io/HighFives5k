@@ -7,7 +7,7 @@ The High Fives 5K and Kids Dash would not be possible without the assistance of 
 1. Race Registration
 2. Race Video/Photographers
 3. Gatorade/Water  Tables
-4. Motorized Escort for Race Leaders (thank you Jim Ostler)
+4. Motorized Escort for Race Leaders
 5. Race Timers
 6. Traffic Controlers
 7. Finish Line Tag Remover
