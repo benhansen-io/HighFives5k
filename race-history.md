@@ -75,6 +75,21 @@ Worth noting was the strong support and participation in the races by Avenues  c
 
 History was created in the 5K race this year when current Avenues resident Dan Cushman became the first “Three-Pete” male winner in the 14 year history of this event. Also,  Dan and his wife Laura Cushman became the first family to win both the men’s and the women’s divisions of the 5K, when Laura crossed the finish line as the first female finisher. Ryan Brown set a new course record in the 40-49 year old male division when he crossed the finish line in 20 minutes and 51 seconds. Congratulations to Ryan and all of the other participants and finishers in this years’ High Fives Races!
 
+**2019** - One of the most concerning obstacle confronting the 2019 High Fives event was the major water piping replacement/road repair work which worked its way up Northcrest Drive and Hilltop Road all spring, and by the week of the Hogh Fives races had resulted in very large and deep trenches in the intersection of 18th Ave & Hilltop Road and continuing down to 16th Avenue. But Melanie Rogers talked to the City Road crew who promised to cover the trench in the intersection so we could run our races across these street. So when race day came, the runners were able to safely negotiate through or around these hazards without any injuries.
+
+The road construction and hazards did not dampen the participation in this years 5K race, as 86 runners ran and finished this year’s 5K. That is the 3rd largest field of runners in the 16 years of running the 5K.
+
+<figure style="padding: 25px; float: left;">
+<img style="height: 280px;" src="images/2019history.jpg" />
+<figcaption style="text-align: center;">2019 Construction</figcaption>
+</figure>
+
+The winner of this year’s 5K was Tasha Mahmood, an Avenue’s resident who has taken second place in this race for the past two years. Congratulations Taha! On the women’s side, Adria Favero, the nine year old daughter of Kristen Monson Favero, became the youngest female ever to win this race. What an amazing accomplishment Adria! Great running ability is clearly in her family’s genetic code. Adria’s mother Kristen still holds the record for being the only 3 time Female Winner of the High Fives 5K. (Kristen was the Women’s 5K champion for the first three years of this 5K).
+
+And while the field of runners in the 5K continues to get younger and younger each year, we want to also recognize the remarkable successes of our oldest runner in the 5K. At 81 years of age, Bob Edwards finished ahead of more than half of the runners in this race and once again won his age division (for the ninth straight time). congratulation Bob.
+
+One other special feature of the 2019 High Fives was the Eagle Scout Project lead by Max Rogers in conjunction with the 22 Too Many foundation. Max Roger’s Eagle Project allowed for runners to run for military veterans who have suffered from the consequences of PTSD and other related mental health problems. Donations were made to the 22 Too Many foundation on behalf of these runners. Thank You Max for making the High Fives an especially significant event this year.
+
 <figure style="padding: 25px; float: right;">
 <img style="height: 205px;" src="images/2003start.bmp" />
 <figcaption style="text-align: center;">2003 Inaugural 5K</figcaption>
